@@ -1,0 +1,26 @@
+{
+    "string1": "Text",
+    "string2": "Text",
+    "integer": 1,
+    "decimal": 1.2,
+    "boolean1": true,
+    "boolean2": false,
+    "null": null,
+    "array": [1,2,3,4,5],
+    "object": {
+        "name": "Ana",
+        "lastname": "Pinto"
+    },
+    "personas": [
+        {
+            "name": "Ana",
+            "lastname": "Pinto",
+            "age": 25
+        },
+        {
+            "name": "Paco",
+            "lastname": "Piedra",
+            "age": 25
+        }
+    ]
+}
